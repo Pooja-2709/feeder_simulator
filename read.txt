@@ -1,0 +1,15 @@
+One-Line Summary (Interview Use)
+
+created a REST API using Python’s built-in HTTP server, 
+manually handled routing, 
+request parsing, 
+validation, 
+database operations, 
+and response handling without using any framework.
+
+
+
+pending - 
+1. validation for sensor name it must be string
+2. update and delete functionality
+ 
